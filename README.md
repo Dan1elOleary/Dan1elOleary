@@ -48,4 +48,4 @@ PowerShell scripts for Windows administration, endpoint troubleshooting, worksta
 ## Contact
 
 - GitHub: [github.com/Dan1elOleary](https://github.com/Dan1elOleary)
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/danieloleary25/
