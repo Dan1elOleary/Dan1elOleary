@@ -12,21 +12,25 @@ I hold an **Associate in Science in Cybersecurity** from **Southern New Hampshir
 ## Education
 
 **Southern New Hampshire University**  
-**Associate in Science in Cybersecurity**
+Associate in Science in Cybersecurity
 
 ---
 
 ## Certifications
 
-- **CompTIA ITF+**
-- **CompTIA A+** — Active
-- **CompTIA Network+** — Active
-- **CompTIA Security+** — Active
-- **CompTIA CSIS — Secure Infrastructure Specialist**
+- CompTIA ITF+
+- CompTIA A+ — Active
+- CompTIA Network+ — Active
+- CompTIA Security+ — Active
+- CompTIA CSIS — Secure Infrastructure Specialist
 
 ---
 
 ## Portfolio Focus
+
+This GitHub portfolio demonstrates practical IT support, cybersecurity, automation, and documentation skills that apply to MSP, help desk, desktop support, and junior cybersecurity roles.
+
+This portfolio includes:
 
 - Cybersecurity lab writeups
 - TryHackMe learning paths
@@ -53,11 +57,11 @@ PowerShell scripts for Windows administration, endpoint troubleshooting, worksta
 
 ### Microsoft 365 Troubleshooting
 
-Documentation covering Microsoft 365 and Entra ID troubleshooting, including MFA, Outlook, Teams, user access, licensing, and common help desk workflows.
+Microsoft 365 and Entra ID troubleshooting guides covering MFA, Outlook, Teams, user access, licensing, and common help desk workflows.
 
 ### Windows Endpoint Hardening
 
-Windows endpoint hardening notes and PowerShell checks focused on Defender, BitLocker, firewall status, local administrator review, and security baseline validation.
+Windows endpoint hardening notes and scripts focused on security baselines, local policy review, BitLocker, Defender, firewall, and account protection.
 
 ### Help Desk Ticket Examples
 
@@ -70,6 +74,8 @@ AI security notes covering OWASP LLM Top 10, prompt injection, RAG security, sec
 ---
 
 ## Currently Learning
+
+I am currently continuing to build knowledge and hands-on experience in:
 
 - SOC Level 1 concepts
 - CompTIA PenTest+ topics
@@ -89,11 +95,11 @@ AI security notes covering OWASP LLM Top 10, prompt injection, RAG security, sec
 - Microsoft 365 Administration
 - Entra ID / Azure AD
 - Windows 10/11 Support
-- User Account Troubleshooting
-- MFA Troubleshooting
-- Outlook and Teams Troubleshooting
-- Endpoint Troubleshooting
-- Help Desk Ticket Documentation
+- User account troubleshooting
+- MFA troubleshooting
+- Outlook and Teams troubleshooting
+- Endpoint troubleshooting
+- Help desk ticket documentation
 
 ### Tools & Platforms
 
@@ -108,13 +114,13 @@ AI security notes covering OWASP LLM Top 10, prompt injection, RAG security, sec
 
 ### Cybersecurity
 
-- Cybersecurity Fundamentals
-- SOC Fundamentals
-- Incident Response Basics
-- Vulnerability Analysis
-- Defensive Security Concepts
-- Endpoint Security Hardening
-- Technical Documentation
+- Cybersecurity fundamentals
+- SOC fundamentals
+- Incident response basics
+- Vulnerability analysis
+- Defensive security concepts
+- Endpoint security hardening
+- Technical documentation
 
 ---
 
@@ -123,3 +129,4 @@ AI security notes covering OWASP LLM Top 10, prompt injection, RAG security, sec
 **GitHub:** [github.com/Dan1elOleary](https://github.com/Dan1elOleary)  
 **LinkedIn:** [linkedin.com/in/danieloleary25](https://www.linkedin.com/in/danieloleary25/)
 ```
+
