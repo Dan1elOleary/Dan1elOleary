@@ -1,4 +1,3 @@
-```md
 # Daniel O'Leary
 
 **IT Support & Cybersecurity Professional | MSP Technician | Microsoft 365 | PowerShell | Windows Administration | TryHackMe**
