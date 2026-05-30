@@ -1,8 +1,30 @@
+```md
 # Daniel O'Leary
 
-IT Support & Cybersecurity Professional | MSP Technician | Microsoft 365 | PowerShell | Windows Administration | TryHackMe
+**IT Support & Cybersecurity Professional | MSP Technician | Microsoft 365 | PowerShell | Windows Administration | TryHackMe**
 
-I am an IT support and cybersecurity professional building hands-on experience in managed services, Microsoft 365 administration, Windows endpoint support, PowerShell automation, SOC fundamentals, and defensive security.
+I am an IT support and cybersecurity professional with hands-on experience in managed services, Microsoft 365 administration, Windows endpoint support, PowerShell automation, SOC fundamentals, and defensive security.
+
+I hold an **Associate in Science in Cybersecurity** from **Southern New Hampshire University** and have earned multiple CompTIA certifications focused on IT support, networking, security, and secure infrastructure.
+
+---
+
+## Education
+
+**Southern New Hampshire University**  
+**Associate in Science in Cybersecurity**
+
+---
+
+## Certifications
+
+- **CompTIA ITF+**
+- **CompTIA A+** — Active
+- **CompTIA Network+** — Active
+- **CompTIA Security+** — Active
+- **CompTIA CSIS — Secure Infrastructure Specialist**
+
+---
 
 ## Portfolio Focus
 
@@ -14,14 +36,38 @@ I am an IT support and cybersecurity professional building hands-on experience i
 - Microsoft 365 troubleshooting documentation
 - Windows administration workflows
 - Defensive security recommendations
+- Help desk ticket documentation
+- Endpoint troubleshooting workflows
+
+---
 
 ## Featured Repositories
 
 ### Cybersecurity Writeups
+
 Writeups and study notes covering TryHackMe learning paths, SOC fundamentals, AI security, access control, red team engagement planning, and defensive security concepts.
 
 ### PowerShell Automation
+
 PowerShell scripts for Windows administration, endpoint troubleshooting, workstation health checks, and MSP-style automation workflows.
+
+### Microsoft 365 Troubleshooting
+
+Documentation covering Microsoft 365 and Entra ID troubleshooting, including MFA, Outlook, Teams, user access, licensing, and common help desk workflows.
+
+### Windows Endpoint Hardening
+
+Windows endpoint hardening notes and PowerShell checks focused on Defender, BitLocker, firewall status, local administrator review, and security baseline validation.
+
+### Help Desk Ticket Examples
+
+Example IT help desk ticket documentation showing issue summaries, troubleshooting steps, root cause notes, resolution details, and user-facing communication.
+
+### AI Security Notes
+
+AI security notes covering OWASP LLM Top 10, prompt injection, RAG security, secure logging, access control, and AI supply chain risks.
+
+---
 
 ## Currently Learning
 
@@ -31,21 +77,49 @@ PowerShell scripts for Windows administration, endpoint troubleshooting, worksta
 - Incident response
 - Vulnerability analysis
 - Microsoft 365 security administration
+- Endpoint security hardening
+- PowerShell automation for MSP workflows
+
+---
 
 ## Skills
+
+### IT Support & Administration
 
 - Microsoft 365 Administration
 - Entra ID / Azure AD
 - Windows 10/11 Support
-- PowerShell Automation
+- User Account Troubleshooting
+- MFA Troubleshooting
+- Outlook and Teams Troubleshooting
+- Endpoint Troubleshooting
+- Help Desk Ticket Documentation
+
+### Tools & Platforms
+
+- PowerShell
 - NinjaOne RMM
 - Autotask PSA
-- Networking Fundamentals
-- Endpoint Troubleshooting
+- Microsoft 365 Admin Center
+- Entra ID Admin Center
+- Windows Defender
+- BitLocker
+- Windows Firewall
+
+### Cybersecurity
+
 - Cybersecurity Fundamentals
+- SOC Fundamentals
+- Incident Response Basics
+- Vulnerability Analysis
+- Defensive Security Concepts
+- Endpoint Security Hardening
 - Technical Documentation
+
+---
 
 ## Contact
 
-- GitHub: [github.com/Dan1elOleary](https://github.com/Dan1elOleary)
-- LinkedIn: https://www.linkedin.com/in/danieloleary25/
+**GitHub:** [github.com/Dan1elOleary](https://github.com/Dan1elOleary)  
+**LinkedIn:** [linkedin.com/in/danieloleary25](https://www.linkedin.com/in/danieloleary25/)
+```
