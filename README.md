@@ -42,35 +42,6 @@ This portfolio includes:
 - Help desk ticket documentation
 - Endpoint troubleshooting workflows
 
----
-
-## Featured Repositories
-
-### Cybersecurity Writeups
-
-Writeups and study notes covering TryHackMe learning paths, SOC fundamentals, AI security, access control, red team engagement planning, and defensive security concepts.
-
-### PowerShell Automation
-
-PowerShell scripts for Windows administration, endpoint troubleshooting, workstation health checks, and MSP-style automation workflows.
-
-### Microsoft 365 Troubleshooting
-
-Microsoft 365 and Entra ID troubleshooting guides covering MFA, Outlook, Teams, user access, licensing, and common help desk workflows.
-
-### Windows Endpoint Hardening
-
-Windows endpoint hardening notes and scripts focused on security baselines, local policy review, BitLocker, Defender, firewall, and account protection.
-
-### Help Desk Ticket Examples
-
-Example IT help desk ticket documentation showing issue summaries, troubleshooting steps, root cause notes, resolution details, and user-facing communication.
-
-### AI Security Notes
-
-AI security notes covering OWASP LLM Top 10, prompt injection, RAG security, secure logging, access control, and AI supply chain risks.
-
----
 
 ## Currently Learning
 
